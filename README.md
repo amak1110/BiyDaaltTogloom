@@ -1,2 +1,47 @@
-# BiyDaaltTogloom
-Ymar togloom hiitsgeeh we
+biy_daalt public interface;
+
+1. pacman              
+   -eat()                
+   -move()
+   -win()
+   -loss()
+   _______
+   name:string;
+   color:String;
+   shape
+   
+2. Food
+   -score_increase()
+   -score_decrease()
+   -display()
+   -clear()
+   ________
+   turul;Sttring;
+   shape
+   num:int
+   
+3. Ghost
+   -eat_pacman()
+   -move()
+   -back()
+   -returnlife()
+   ________
+   name:String;
+   color:String;
+   shape
+   num:int;
+4. TheGame
+  -pause()
+  -exit()
+  -restart()
+  _________
+  name:Pacman;
+
+5. display
+   -draw_pacman()
+   -draw_food()
+   -draw_ghost()
+ 
+  
+  
+   
